@@ -1,0 +1,11 @@
+svg g circle:nth-child(1) {
+    stroke: aqua;
+    box-shadow: 5px 10px 5px red;
+}
+
+svg g text {
+    color: #000;
+    font-weight: 800;
+
+    /* transform: scaleX(1.5); */
+}
