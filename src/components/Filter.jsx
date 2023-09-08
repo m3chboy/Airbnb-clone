@@ -42,9 +42,9 @@ export const Filter = () => {
                             >
                                 <img
                                     className='w-[24px] min-h-[23p] mb-1'
-                                    src={filter.icon} alt="icon"
+                                    src={filter.icon} alt="icons"
                                 />
-                                <p className='leading-normal text-[12px] font-medium text-[#717171] whitespace-nowrap filter-under-active relative'>{filter.name}</p>
+                                <p className='leading-medium text-[12px] font-medium text-[#717171] whitespace-nowrap filter-under-active relative'>{filter.name}</p>
 
                             </div>
                         </Link>
