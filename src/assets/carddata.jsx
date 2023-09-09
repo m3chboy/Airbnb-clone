@@ -10,15 +10,15 @@ export const cardData = [
     {
         id: 1,
         image: 'https://a0.muscache.com/im/pictures/miso/Hosting-53371625/original/b230521e-d33c-4c5e-a2ba-d1d5277ade92.jpeg?im_w=720',
-        name: 'Olhuveli, Maldives',
+        name: 'Alaska, US',
         bed: '2',
         amount: '₹94,932',
         star: '4.85',
     },
     {
         id: 1,
-        image: 'https://a0.muscache.com/im/pictures/miso/Hosting-636070119680439851/original/26c46614-4bea-4f2b-9e9d-e09c51b35764.jpeg?im_w=720',
-        name: 'Olhuveli, Maldives',
+        image: 'https://a0.muscache.com/im/pictures/miso/Hosting-917327330305313214/original/480d35a1-b5da-492e-aefd-13a0e5ef50b5.jpeg?im_w=720',
+        name: 'Kamla, Gaeja',
         bed: '2',
         amount: '₹94,932',
         star: '4.85',
@@ -26,7 +26,7 @@ export const cardData = [
     {
         id: 1,
         image: 'https://a0.muscache.com/im/pictures/miso/Hosting-604706020372898045/original/2d2f7a32-70d9-4cf8-8f76-7a48b36fcffe.jpeg?im_w=720',
-        name: 'Olhuveli, Maldives',
+        name: 'Arual, Egypt',
         bed: '2',
         amount: '₹94,932',
         star: '4.85',
@@ -34,7 +34,7 @@ export const cardData = [
     {
         id: 1,
         image: 'https://a0.muscache.com/im/pictures/miso/Hosting-605371928419351152/original/8711dc45-edaa-452e-8502-628f72784757.jpeg?im_w=720',
-        name: 'Olhuveli, Maldives',
+        name: 'Rajasthan, India',
         bed: '2',
         amount: '₹94,932',
         star: '4.85',
@@ -42,15 +42,15 @@ export const cardData = [
     {
         id: 1,
         image: 'https://a0.muscache.com/im/pictures/miso/Hosting-661201204231662812/original/aa70aa90-cd20-4932-871b-77745c373873.jpeg?im_w=720',
-        name: 'Olhuveli, Maldives',
+        name: 'Goa, India',
         bed: '2',
         amount: '₹94,932',
         star: '4.85',
     },
     {
         id: 1,
-        image: 'https://a0.muscache.com/im/pictures/miso/Hosting-636070119680439851/original/26c46614-4bea-4f2b-9e9d-e09c51b35764.jpeg?im_w=720',
-        name: 'Olhuveli, Maldives',
+        image: 'https://a0.muscache.com/im/pictures/ec7d8a26-a86c-4e47-9cc9-abe6c46a2599.jpg?im_w=720',
+        name: 'Madurai, India',
         bed: '2',
         amount: '₹94,932',
         star: '4.85',
@@ -58,7 +58,7 @@ export const cardData = [
     {
         id: 1,
         image: 'https://a0.muscache.com/im/pictures/miso/Hosting-661201204231662812/original/aa70aa90-cd20-4932-871b-77745c373873.jpeg?im_w=720',
-        name: 'Olhuveli, Maldives',
+        name: 'Alaie, Majaj',
         bed: '2',
         amount: '₹94,932',
         star: '4.85',
@@ -66,7 +66,7 @@ export const cardData = [
     {
         id: 1,
         image: 'https://a0.muscache.com/im/pictures/33bd05ed-6c29-4d74-99a6-201ff74e53d1.jpg?im_w=720',
-        name: 'Olhuveli, Maldives',
+        name: 'Ladaj, Amaba',
         bed: '2',
         amount: '₹94,932',
         star: '4.85',
@@ -81,7 +81,7 @@ export const cardData = [
     },
     {
         id: 1,
-        image: 'https://a0.muscache.com/im/pictures/miso/Hosting-636070119680439851/original/26c46614-4bea-4f2b-9e9d-e09c51b35764.jpeg?im_w=720',
+        image: 'https://a0.muscache.com/im/pictures/miso/Hosting-53369991/original/fc3d3c1c-f09e-46de-b16c-37884140aa22.jpeg?im_w=720',
         name: 'Olhuveli, Maldives',
         bed: '2',
         amount: '₹94,932',
@@ -113,7 +113,7 @@ export const cardData = [
     },
     {
         id: 1,
-        image: 'https://a0.muscache.com/im/pictures/miso/Hosting-48104213/original/3e48dc38-397d-40af-906b-fbb641626b14.jpeg?im_w=720?im_w=720',
+        image: 'https://a0.muscache.com/im/pictures/miso/Hosting-48104213/original/3e48dc38-397d-40af-906b-fbb641626b14.jpeg?im_w=720',
         name: 'Olhuveli, Maldives',
         bed: '2',
         amount: '₹94,932',
